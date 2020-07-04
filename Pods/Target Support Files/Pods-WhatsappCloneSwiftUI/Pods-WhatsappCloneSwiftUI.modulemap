@@ -1,0 +1,6 @@
+framework module Pods_WhatsappCloneSwiftUI {
+  umbrella header "Pods-WhatsappCloneSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
